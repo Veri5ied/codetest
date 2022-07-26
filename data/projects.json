@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Project 1",
+    "organizationId": 2,
+    "users": [1, 2]
+  },
+  {
+    "id": 2,
+    "name": "Project 2",
+    "organizationId": 2,
+    "users": [1, 12]
+  },
+  {
+    "id": 3,
+    "name": "Project 3",
+    "organizationId": 2,
+    "users": [3]
+  },
+  {
+    "id": 4,
+    "name": "Project 4",
+    "organizationId": 3,
+    "users": [4]
+  },
+  {
+    "id": 5,
+    "name": "Project 5",
+    "organizationId": 1,
+    "users": [5, 1]
+  },
+  {
+    "id": 6,
+    "name": "Project 6",
+    "organizationId": 4,
+    "users": [5, 1]
+  }
+]
